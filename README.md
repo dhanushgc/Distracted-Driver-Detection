@@ -12,6 +12,7 @@ There are 10 classes in the dataset:
   - c7 Reaching behind.
   - c8 Hair and makeup.
   - c9 Talking to passenger(s).
+  
 This dataset is available on Kaggle, under the State Farm competition: https://www.kaggle.com/c/state-farm-distracted-driver-detection
 
 In order to predict the class, we used VGG-16.
