@@ -26,3 +26,8 @@ Following is the general proess followed while running different models :
   - Ensembling the few selected models
 
 Model has loss: 0.4762 - accuracy: 0.8331 - val_loss: 1.3831 - val_accuracy: 0.7504
+
+# Steps to excecute:
+  - Data_preprocessing.ipynb: preprocessing of data to input vgg16 model.
+  - vgg16.ipynb: training and testing model.
+  - Getting the predictions on Video.ipynb
